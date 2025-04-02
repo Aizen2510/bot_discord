@@ -1,4 +1,4 @@
-# Bot Dis code 
+# Bot Discord 
 # first you need to install : 
 # pip install python-dotenv
 # python -m venv myenv(yourname)
